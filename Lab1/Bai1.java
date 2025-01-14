@@ -1,6 +1,7 @@
+package Lab1;
 import java.util.Scanner;
 
-public class test {
+public class Bai1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập họ và tên: ");

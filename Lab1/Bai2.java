@@ -15,5 +15,6 @@ public class Bai2 {
         System.out.printf("Chu vi: %.2f%n", chuVi);
         System.out.printf("Diện tích: %.2f%n", dienTich);
         System.out.printf("Cạnh nhỏ: %.2f%n", canhNho);
+        scanner.close();
     }
 }

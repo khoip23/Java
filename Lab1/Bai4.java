@@ -21,5 +21,6 @@ public class Bai4 {
         } else {
             System.out.println("Delta âm, không có căn Delta.");
         }
+        scanner.close();
     }
 }

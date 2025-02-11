@@ -31,5 +31,6 @@ public class Bai4 {
                     System.out.println("Lựa chọn không hợp lệ.");
             }
         } while (choice != 4);
+        scanner.close();
     }
 }

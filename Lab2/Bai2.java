@@ -30,5 +30,6 @@ public class Bai2 {
                 System.out.printf("Phương trình có hai nghiệm: x1 = %.2f, x2 = %.2f%n", x1, x2);
             }
         }
+        scanner.close();
     }
 }

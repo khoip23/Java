@@ -13,5 +13,6 @@ public class Bai5 {
 
         int max = Math.max(a, Math.max(b, c));
         System.out.printf("Số lớn nhất là: %d%n", max);
+        scanner.close();
     }
 }

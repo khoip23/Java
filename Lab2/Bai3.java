@@ -15,5 +15,6 @@ public class Bai3 {
         }
 
         System.out.printf("Tiền điện phải trả: %d VNĐ%n", tienDien);
+        scanner.close();
     }
 }

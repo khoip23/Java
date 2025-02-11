@@ -1,4 +1,5 @@
 package Lab1;
+
 import java.util.Scanner;
 
 public class Bai1 {
@@ -10,5 +11,6 @@ public class Bai1 {
         double diem = scanner.nextDouble();
 
         System.out.printf("%s %.2f điểm%n", hoTen, diem);
+        scanner.close();
     }
 }

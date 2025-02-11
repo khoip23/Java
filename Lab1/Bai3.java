@@ -8,5 +8,6 @@ public class Bai3 {
 
         double theTich = Math.pow(canh, 3);
         System.out.printf("Thể tích của khối lập phương là: %.2f%n", theTich);
+        scanner.close();
     }
 }

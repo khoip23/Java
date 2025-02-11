@@ -19,5 +19,6 @@ public class Bai1 {
             double x = -b / a;
             System.out.printf("Nghiệm của phương trình là: x = %.2f%n", x);
         }
+        scanner.close();
     }
 }

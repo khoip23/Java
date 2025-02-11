@@ -12,5 +12,6 @@ public class Bai5 {
 
         double trungBinh = (double) (so1 + so2 + so3) / 3;
         System.out.printf("Trung bình của 3 số là: %.2f%n", trungBinh);
+        scanner.close();
     }
 }

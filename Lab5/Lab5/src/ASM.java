@@ -56,6 +56,7 @@ class ASM {
                     System.out.println("Chọn chức năng không hợp lệ!");
             }
         } while (chon != 0);
+        scanner.close();
 
     }
     public static void nhapDanhSachNhanVien() {
